@@ -28,7 +28,7 @@ This repository includes a simple interpreter for the SOLAR programming language
 
 bash
 ```
-git clone https://github.com/yourusername/solar-language.git
+git clone https://github.com/liviu-b/SOLAR
 cd solar language
 ```
 2. **Open the HTML File**: 
