@@ -1,4 +1,4 @@
-# SOLAR Programming Language and Interpreter
+# SOLAR Programming Language and Interpreter :computer:
 
 ## Overview
 
